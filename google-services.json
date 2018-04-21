@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "54576044851",
+    "firebase_url": "https://smartup-762bc.firebaseio.com",
+    "project_id": "smartup-762bc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54576044851:android:08cd03a84232363d",
+        "android_client_info": {
+          "package_name": "com.smartup.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54576044851-tbnsj4e0dbjae27nr28gk03tp8dlp15b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEuw8qSK9E_3uo1--607RQUlEWlk2v-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
